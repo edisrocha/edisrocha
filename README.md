@@ -6,7 +6,9 @@ Como Operador de Empilhadeira na UPS, atuo há mais de dez anos com foco nas ope
 
 Minha missão é integrar tecnologia e processos logísticos para otimizar operações e reduzir perdas, sempre priorizando a colaboração e a entrega de resultados consistentes. Sou motivado por desafios que promovam inovação e crescimento no ambiente corporativo.
 
+
 <p align="left"> <a href="https://www.linkedin.com/in/edi-rocha/"> <img alt="LinkedIn" title="Conecte-se no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conecte-se" /> </a> <a href="https://github.com/EdiRocha?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EdiRocha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/EdiRocha?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/EdiRocha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> <a href="https://github.com/EdiRocha?tab=repositories"> <img alt="Repositórios" title="Meus repositórios" src="https://custom-icon-badges.demolab.com/badge/Repositórios-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=5c4274" /> </a> </p>
+
 
 <H3>Tecnologias e Ferramentas</H3>
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -24,12 +26,14 @@ Minha missão é integrar tecnologia e processos logísticos para otimizar opera
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="JSON" title="JSON" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 
+
 <br/> <br/>
 <H3>Estatísticas</H3>
 <p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=edisrocha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisRocha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
 
 </p><br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+
 
 <H3> Minha Jornada Profissional</H3>
 Experiência em Logística:
