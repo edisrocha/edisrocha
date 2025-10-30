@@ -34,7 +34,7 @@ Minha missão é integrar tecnologia e processos logísticos para otimizar opera
 
 </p><br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
-
+<br/>
 <H3> Minha Jornada Profissional</H3>
 Experiência em Logística:
   - UPS Supply Chain Solutions: 10+ anos
