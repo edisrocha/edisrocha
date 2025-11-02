@@ -1,58 +1,94 @@
-<H1>Edi Rocha</H1>
+<h1 align="center">👋 Olá, eu sou <strong>Edi Rocha</strong></h1>
 
-<H3>Especialista em Logística & Tecnologia | Engenheiro de Computação</H3>
+<p align="center">
+  <em>🎓 Engenheiro da Computação | 💼 Especialista em Logística & Tecnologia | 🦾 Profissional PCD (Transtibial)</em><br>
+  <em>Integrando tecnologia e eficiência operacional para transformar desafios em resultados.</em>
+</p>
 
-Como Operador de Empilhadeira na UPS, atuo há mais de dez anos com foco nas operações logísticas, incluindo recebimento, expedição, controle de estoque e inventário, utilizando sistemas SAP e WMS para garantir eficiência e precisão. Minha experiência abrange ainda processos de importação, exportação, logística reversa e suporte técnico em automação e melhoria contínua. 
+<p align="center">
+  <a href="mailto:esrocha85@gmail.com"><img src="https://img.shields.io/badge/Email-esrocha85%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/edi-rocha/"><img src="https://img.shields.io/badge/LinkedIn-Edi%20Rocha-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/edisrocha"><img src="https://img.shields.io/github/followers/edisrocha?label=Follow&style=flat-square&logo=github"></a>
+</p>
 
-Minha missão é integrar tecnologia e processos logísticos para otimizar operações e reduzir perdas, sempre priorizando a colaboração e a entrega de resultados consistentes. Sou motivado por desafios que promovam inovação e crescimento no ambiente corporativo.
+---
 
+## 🚀 Sobre mim
 
-<p align="left"> <a href="https://www.linkedin.com/in/edi-rocha/"> <img alt="LinkedIn" title="Conecte-se no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conecte-se" /> </a> <a href="https://github.com/EdiRocha?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EdiRocha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/EdiRocha?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/EdiRocha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> <a href="https://github.com/EdiRocha?tab=repositories"> <img alt="Repositórios" title="Meus repositórios" src="https://custom-icon-badges.demolab.com/badge/Repositórios-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=5c4274" /> </a> </p>
+Sou um profissional com mais de **10 anos de experiência em logística**, atuando com **SAP, WMS, inventário, importação/exportação e melhoria contínua**.  
+Tenho formação em **Engenharia da Computação (Univesp)** e experiência prática em **TI, automação, segurança da informação e DevOps**.  
 
+💡 Minha missão é integrar **tecnologia e processos logísticos** para criar soluções inteligentes, reduzir perdas e aumentar a produtividade.  
+Atualmente, busco crescimento nas áreas de **Desenvolvimento, DevOps, Automação e Análise de Dados**.
 
-<H3>Tecnologias e Ferramentas</H3>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Ubuntu" title="Ubuntu" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="JSON" title="JSON" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+---
 
+## 🧠 Tecnologias e Ferramentas
 
-<br/> <br/>
-<H3>Estatísticas</H3>
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=edisrocha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisRocha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-</p><br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+---
 
-<br/>
-<H3> Minha Jornada Profissional</H3>
-Experiência em Logística:
-  - UPS Supply Chain Solutions: 10+ anos
-  - Gestão de estoques (SAP/WMS)
-  - Processos de importação/exportação
-  - Melhoria contínua e automação
+## 📦 Projetos em Destaque
 
-<H3>Treinamentos em Tecnologia:</H3>
-  - Formação: Engenharia de Computação
-  - Foco: DevOps, Docker, Sistemas Web
-  - Projetos: Sistemas PHP, Automação
-  - Certificações: RPA, Fundamentos de TI
+| 💡 Projeto | Descrição | Tecnologias |
+|-------------|------------|--------------|
+| 📊 **Dashboard Logístico – Power BI** | Visual interativo para controle de estoque e desempenho operacional. | Power BI, Excel, WMS |
+| 🤖 **Automação de Inventário** | Script em Python para automatizar contagens e exportar relatórios. | Python, Pandas, Excel |
+| 🔒 **Auditoria Forense de Equipamentos** | Projeto de análise de falhas e rastreamento de dispositivos. | Python, Bash, Linux |
+| 🌐 **Sistema de Vagas PHP** | Sistema web para gerenciamento de recrutamento interno. | PHP, MySQL, HTML, CSS |
 
-<H3>Projetos em Destaque</H3>
-Sistema de Vagas PHP - Sistema completo de recrutamento
-Scripts de Automação - Automação de processos com Python e Bash
-Projetos Docker - Containerização de aplicações
+---
 
-<p align="center"> <i>Aberto a oportunidades em Desenvolvimento e DevOps</i> <br/> <a href="https://linkedin.com/in/edi-rocha">Vamos nos conectar!</a> </p>
+## 📈 Estatísticas do GitHub
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edisrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisrocha&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
+---
+
+## 🧩 Jornada Profissional
+
+- 🏢 **UPS Supply Chain Solutions** – +10 anos  
+  Atuação em operações logísticas com SAP/WMS, controle de estoque, importação/exportação e automação de processos.  
+- 🧰 **Horiba Medical / Biolab Farmacêutica**  
+  Experiência em logística farmacêutica, controle de qualidade e câmara fria.  
+- 💻 **Engenharia da Computação – Univesp (2022)**  
+  Foco em DevOps, redes, automação e segurança da informação.  
+- 🎓 **Certificação de Excel Avançado – Impacta**  
+  Aplicações analíticas e automação de relatórios corporativos.
+
+---
+
+## 🎯 Objetivos
+
+Atuar em posições estratégicas nas áreas de **Logística, Tecnologia e Automação**,  
+integrando **IA, análise de dados e processos inteligentes**.  
+
+Aberto a oportunidades em **Desenvolvimento, DevOps e Automação Logística**.  
+
+---
+
+## 🌐 Contatos
+
+📫 **E-mail:** [esrocha85@gmail.com](mailto:edi.rocha.tech@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/edi-rocha](https://www.linkedin.com/in/edi-rocha)  
+📁 **GitHub:** [github.com/edisrocha](https://github.com/edisrocha)  
+
+---
+
+<p align="center">
+  <em>"Tecnologia é a ponte entre o desafio e a solução."</em> 🚀
+</p>
