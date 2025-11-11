@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou <strong>Edi Rocha</strong></h1>
+<h1 align="center">Olá, eu sou <strong>Edi Rocha</strong></h1>
 
 <p align="center">
-  <em>🎓 Engenheiro da Computação | 💼 Especialista em Logística & Tecnologia | 🦾 Profissional PCD (Transtibial)</em><br>
+  <em>Engenheiro da Computação | Especialista em Logística & Tecnologia | Profissional PCD (Transtibial)</em><br>
   <em>Integrando tecnologia e eficiência operacional para transformar desafios em resultados.</em>
 </p>
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou um profissional com mais de **10 anos de experiência em logística**, atuando com **SAP, WMS, inventário, importação/exportação e melhoria contínua**.  
 Tenho formação em **Engenharia da Computação (Univesp)** e experiência prática em **TI, automação, segurança da informação e DevOps**.  
@@ -23,7 +23,7 @@ Atualmente, busco crescimento nas áreas de **Desenvolvimento, DevOps, Automaç�
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,18 +39,18 @@ Atualmente, busco crescimento nas áreas de **Desenvolvimento, DevOps, Automaç�
 
 ---
 
-## 📦 Projetos em Destaque
+## Projetos em Destaque
 
-| 💡 Projeto | Descrição | Tecnologias |
+| Projeto | Descrição | Tecnologias |
 |-------------|------------|--------------|
-| 📊 **Dashboard Logístico – Power BI** | Visual interativo para controle de estoque e desempenho operacional. | Power BI, Excel, WMS |
-| 🤖 **Automação de Inventário** | Script em Python para automatizar contagens e exportar relatórios. | Python, Pandas, Excel |
-| 🔒 **Auditoria Forense de Equipamentos** | Projeto de análise de falhas e rastreamento de dispositivos. | Python, Bash, Linux |
-| 🌐 **Sistema de Vagas PHP** | Sistema web para gerenciamento de recrutamento interno. | PHP, MySQL, HTML, CSS |
+| **Dashboard Logístico – Power BI** | Visual interativo para controle de estoque e desempenho operacional. | Power BI, Excel, WMS |
+| **Automação de Inventário** | Script em Python para automatizar contagens e exportar relatórios. | Python, Pandas, Excel |
+| **Auditoria Forense de Equipamentos** | Projeto de análise de falhas e rastreamento de dispositivos. | Python, Bash, Linux |
+| **Sistema de Vagas PHP** | Sistema web para gerenciamento de recrutamento interno. | PHP, MySQL, HTML, CSS |
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edisrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -59,20 +59,20 @@ Atualmente, busco crescimento nas áreas de **Desenvolvimento, DevOps, Automaç�
 
 ---
 
-## 🧩 Jornada Profissional
+## Jornada Profissional
 
-- 🏢 **UPS Supply Chain Solutions** – +10 anos  
+- **UPS Supply Chain Solutions** – +10 anos  
   Atuação em operações logísticas com SAP/WMS, controle de estoque, importação/exportação e automação de processos.  
-- 🧰 **Horiba Medical / Biolab Farmacêutica**  
+-  **Horiba Medical / Biolab Farmacêutica**  
   Experiência em logística farmacêutica, controle de qualidade e câmara fria.  
-- 💻 **Engenharia da Computação – Univesp (2022)**  
+-  **Engenharia da Computação – Univesp (2022)**  
   Foco em DevOps, redes, automação e segurança da informação.  
-- 🎓 **Certificação de Excel Avançado – Impacta**  
+-  **Certificação de Excel Avançado – Impacta**  
   Aplicações analíticas e automação de relatórios corporativos.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 Atuar em posições estratégicas nas áreas de **Logística, Tecnologia e Automação**,  
 integrando **IA, análise de dados e processos inteligentes**.  
@@ -81,7 +81,7 @@ Aberto a oportunidades em **Desenvolvimento, DevOps e Automação Logística**.
 
 ---
 
-## 🌐 Contatos
+## Contatos
 
 📫 **E-mail:** [esrocha85@gmail.com](mailto:edi.rocha.tech@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/edi-rocha](https://www.linkedin.com/in/edi-rocha)  
