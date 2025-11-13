@@ -93,12 +93,12 @@ Aberto a oportunidades em **Desenvolvimento, DevOps e Automação Logística**.
 
 ## Contatos
 
-📫 **E-mail:** [esrocha85@gmail.com](mailto:edi.rocha.tech@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/edi-rocha](https://www.linkedin.com/in/edi-rocha)  
-📁 **GitHub:** [github.com/edisrocha](https://github.com/edisrocha)  
+**E-mail:** [esrocha85@gmail.com](mailto:edi.rocha.tech@gmail.com)  
+**LinkedIn:** [linkedin.com/in/edi-rocha](https://www.linkedin.com/in/edi-rocha)  
+**GitHub:** [github.com/edisrocha](https://github.com/edisrocha)  
 
 ---
 
 <p align="center">
-  <em>"Tecnologia é a ponte entre o desafio e a solução."</em> 🚀
+  <em>"Tecnologia é a ponte entre o desafio e a solução."</em>
 </p>
