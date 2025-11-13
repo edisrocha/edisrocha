@@ -18,7 +18,7 @@
 Sou um profissional com mais de **10 anos de experiência em logística**, atuando com **SAP, WMS, inventário, importação/exportação e melhoria contínua**.  
 Tenho formação em **Engenharia da Computação (Univesp)** e experiência prática em **TI, automação, segurança da informação e DevOps**.  
 
-💡 Minha missão é integrar **tecnologia e processos logísticos** para criar soluções inteligentes, reduzir perdas e aumentar a produtividade.  
+Minha missão é integrar **tecnologia e processos logísticos** para criar soluções inteligentes, reduzir perdas e aumentar a produtividade.  
 Atualmente, busco crescimento nas áreas de **Desenvolvimento, DevOps, Automação e Análise de Dados**.
 
 ---
