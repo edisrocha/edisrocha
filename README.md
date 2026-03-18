@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou <strong>Edi Rocha</strong></h1>
 
 <p align="center">
-  <em>DevOps Engineer | Automação | Cloud | IA aplicada</em><br>
-  <em>Construindo pipelines, automatizando operações e escalando sistemas.</em>
+  <em>DevOps Engineer | Automação | Cloud | Segurança | IA aplicada</em><br>
+  <em>Construindo pipelines, automatizando operações e escalando sistemas com segurança.</em>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Atuo na construção de ambientes resilientes, focando em:
 - ☁️ Infraestrutura como código (IaC)
 - 📦 Containerização e orquestração
 - 📊 Observabilidade e monitoramento
-- 🔐 Segurança e boas práticas
+- 🔐 Segurança em sistemas Linux (hardening, controle de acesso, auditoria)
 
 Minha abordagem é orientada a **reduzir esforço manual, aumentar confiabilidade e acelerar entregas**.
 
@@ -43,10 +43,19 @@ Minha abordagem é orientada a **reduzir esforço manual, aumentar confiabilidad
 
 ---
 
+## 🎓 Certificações
+
+- **Segurança em Linux** – IBSEC (Instituto Brasileiro de Cibersegurança)  
+  📅 Conclusão: Março/2026  
+  🔐 Foco: Hardening, controle de acesso, práticas de segurança em sistemas Linux  
+
+---
+
 ## 🛠️ Stack DevOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux_Security-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -69,6 +78,16 @@ Minha abordagem é orientada a **reduzir esforço manual, aumentar confiabilidad
 | **Infraestrutura como Código** | Provisionamento automatizado de ambientes. | Terraform, AWS |
 | **Monitoramento de Serviços** | Coleta de métricas e dashboards operacionais. | Prometheus, Grafana |
 | **Agente IA com Integração WhatsApp** | Automação de atendimento com fallback humano. | Rasa, Node.js, APIs |
+
+---
+
+## 🔐 Segurança & DevSecOps
+
+- Hardening de sistemas Linux
+- Controle de permissões e usuários
+- Práticas de segurança em servidores
+- Monitoramento e análise de logs
+- Integração de segurança em pipelines (em evolução)
 
 ---
 
@@ -102,6 +121,7 @@ Atuar como **DevOps Engineer**, contribuindo com:
 - Otimização de pipelines
 - Escalabilidade de sistemas
 - Integração entre desenvolvimento e operações
+- Segurança aplicada (DevSecOps)
 
 ---
 
@@ -114,5 +134,5 @@ Atuar como **DevOps Engineer**, contribuindo com:
 ---
 
 <p align="center">
-  <em>"Automatizar, monitorar e escalar: o ciclo contínuo de DevOps."</em>
+  <em>"Automatizar, monitorar e proteger: o ciclo contínuo de DevOps."</em>
 </p>
