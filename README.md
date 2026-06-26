@@ -40,6 +40,8 @@ Minha abordagem é orientada a **reduzir esforço manual, aumentar confiabilidad
 - 📊 Monitoramento com **Prometheus + Grafana**
 - 🤖 Integração de IA em fluxos operacionais (**Rasa + APIs + WhatsApp**)
 - 💳 Integrações externas (pagamentos, APIs REST, webhooks)
+- 🐘 Banco de dados relacionais (**PostgreSQL**, migrations, performance tuning)
+- 🔍 Análise arquitetural e refatoração de código legado
 
 ---
 
@@ -51,7 +53,7 @@ Minha abordagem é orientada a **reduzir esforço manual, aumentar confiabilidad
 
 ---
 
-## 🛠️ Stack DevOps
+## 🛠️ Stack DevOps & Desenvolvimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -65,14 +67,19 @@ Minha abordagem é orientada a **reduzir esforço manual, aumentar confiabilidad
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
 
-## 💡 Projetos DevOps
+## 💡 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |------------|------------|--------|
+| **NexMatch** | Plataforma SaaS de recrutamento com matching por IA. Refatoração arquitetural completa: CI/CD, migrations, service layer, testes, scripts. | Go, Chi, pgx, React, Vite, PostgreSQL, Docker, Render |
 | **Pipeline CI/CD com GitHub Actions** | Automação de build, testes e deploy de aplicações. | GitHub Actions, Docker |
 | **Ambiente Containerizado** | Aplicações isoladas com Docker e preparação para Kubernetes. | Docker, Linux |
 | **Infraestrutura como Código** | Provisionamento automatizado de ambientes. | Terraform, AWS |
